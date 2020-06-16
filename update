@@ -1,8 +1,8 @@
 {
     "version1_0": {
-        "showReward": true,
+        "showReward": false,
         "update": {
-            "isforce": true,
+            "isforce": false,
             "updateinfo": "有新版本是否要升级"
         }
     }
