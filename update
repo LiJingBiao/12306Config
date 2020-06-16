@@ -3,7 +3,7 @@
         "showReward": true,
         "update": {
             "isforce": true,
-            "updateinfo": "江苏苏州"
+            "updateinfo": "有新版本是否要升级"
         }
     }
 }
