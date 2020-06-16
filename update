@@ -1,0 +1,11 @@
+{
+    
+    "version1_0": {
+        "showReward": true,
+        "update": {
+        "isforce": true,
+        "updateinfo": "有新版本更新是否升级"
+    }
+    },
+    
+}
