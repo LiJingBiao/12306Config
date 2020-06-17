@@ -1,6 +1,7 @@
 {
     "version1_0": {
         "showReward": true,
+        "canUse": false,
         "hasNewVersion": true,
         "updateInfo": {
             "isforce": true,
