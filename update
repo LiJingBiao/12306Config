@@ -1,6 +1,6 @@
 {
     "version1_0": {
-        "showReward": true,
+        "showReward": false,
         "canUse": true,
         "hasNewVersion": true,
         "updateInfo": {
