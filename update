@@ -2,7 +2,7 @@
     "version1_0": {
         "showReward": false,
         "canUse": true,
-        "hasNewVersion": true,
+        "hasNewVersion": false,
         "updateInfo": {
             "isforce": false,
             "updateinfo": "有新版本是否要升级",
